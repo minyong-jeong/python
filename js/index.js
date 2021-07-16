@@ -24,6 +24,7 @@ const dic = {
   "logger.py": "python logging example",
   "make_dir.py": "Make directory",
   "md5_tree.py": "Make MD5 tree of directory",
+  "merge_sort.py": "Merge sort",
   "nslookup.py": "Get ip from domain name using nslookup",
   "permission_check.py": "Check file permission",
   "regex_test.py": "regex match test",
